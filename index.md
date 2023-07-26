@@ -2,123 +2,29 @@
 layout: default
 ---
 
-[link to html](./html_test.html)
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Rosemarie Fettig
+### _archives, libraries, and museums professional_
 
-[Link to another page](./another-page.html).
+short blurb about me here?
 
-There should be whitespace between paragraphs.
+The following is a selection of my recent projects, presentations, and publications.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**145 Drawings of Richard Nixon's Nose: Processing the Bernard Seaman Cartoon Collection**  
+&nbsp; Presented at MARAC Spring 2023 ([video](https://youtu.be/dhaCmWXg0YI)) and SAA 2023 - poster PDF [here] (./poster.pdf)
 
-# Header 1
+[**Expanding the Network: Modeling Relationships with Neo4j**](./neo4j_proj)  
+&nbsp; Presented at [Advanced Information Collaboratory](https://ai-collaboratory.net/) Datathon Showcase
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**A No-Nonsense Guide to Thinking About Interoperability**  
+&nbsp; Introductory zine produced on interoperable metadata - read it [here](./interop-zine.pdf)
 
-## Header 2
+[**Text Mining the Bryn Mawr College News**](https://digbmc.github.io/coll-news-site/)  
+&nbsp; Served as Research Coordinator for Undergraduate Fellows on digital scholarship project
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[Jim Henson's Muppets](https://rfettig.omeka.net/exhibits/show/hensonmuppets)  
+&nbsp; Digital exhibition demonstrating narrative capabilites of the Omeka platform
 
-### Header 3
+[Blog Posts](./blog_posts.html)  
+&nbsp; A collection of blog posts written for various cultural heritage institutions
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Find me on [LinkedIn](https://www.linkedin.com/in/rfettig/)
