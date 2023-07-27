@@ -5,20 +5,18 @@ layout: default
 # Rosemarie Fettig
 ### _archives, libraries, and museums professional_
 
-short blurb about me here?
-
 The following is a selection of my recent projects, presentations, and publications.
 
 **145 Drawings of Richard Nixon's Nose: Processing the Bernard Seaman Cartoon Collection**  
-&nbsp; Presented at MARAC Spring 2023 ([video](https://youtu.be/dhaCmWXg0YI)) and SAA 2023 - poster PDF [here] (./poster.pdf)
+&nbsp; Presented at MARAC Spring 2023 ([video](https://youtu.be/dhaCmWXg0YI)) and SAA 2023 - poster PDF [here](./poster.pdf)
 
-[**Expanding the Network: Modeling Relationships with Neo4j**](./neo4j_proj)  
+[Expanding the Network: Modeling Relationships with Neo4j](./neo4j_proj)  
 &nbsp; Presented at [Advanced Information Collaboratory](https://ai-collaboratory.net/) Datathon Showcase
 
 **A No-Nonsense Guide to Thinking About Interoperability**  
-&nbsp; Introductory zine produced on interoperable metadata - read it [here](./interop-zine.pdf)
+&nbsp; Introductory zine about the topic of interoperable metadata - read it [here](./interop-zine.pdf)
 
-[**Text Mining the Bryn Mawr College News**](https://digbmc.github.io/coll-news-site/)  
+[Text Mining the Bryn Mawr College News](https://digbmc.github.io/coll-news-site/)  
 &nbsp; Served as Research Coordinator for Undergraduate Fellows on digital scholarship project
 
 [Jim Henson's Muppets](https://rfettig.omeka.net/exhibits/show/hensonmuppets)  
