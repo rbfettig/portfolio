@@ -5,6 +5,8 @@ layout: default
 # Rosemarie Fettig
 ### _archives, libraries, and museums professional_
 
+rfettig14@icloud.com | [LinkedIn](https://www.linkedin.com/in/rfettig/)
+
 The following is a selection of my recent projects, presentations, and publications.
 
 **145 Drawings of Richard Nixon's Nose: Processing the Bernard Seaman Cartoon Collection**  
@@ -24,5 +26,3 @@ The following is a selection of my recent projects, presentations, and publicati
 
 [Blog Posts](./blog_posts.html)  
 &nbsp; A collection of blog posts written for various cultural heritage institutions
-
-Find me on [LinkedIn](https://www.linkedin.com/in/rfettig/)
