@@ -15,8 +15,8 @@ The following is a selection of my recent projects, presentations, and publicati
 [Expanding the Network: Modeling Relationships with Neo4j](./neo4j_proj)  
 &nbsp; Presented at [Advanced Information Collaboratory](https://ai-collaboratory.net/) Computational Storytelling Datathon Showcase.
 
-**Teaching and Learning with Archival Materials through the Development of Interactive Computational Notebooks**
-&nbsp;Chapter coauthored with Richard Marciano and other Advanced Information Collaboratory members for the _Archives and Primary Source Handbook_, forthcoming from [New Prairie Press](https://newprairiepress.org/).
+**Teaching and Learning with Archival Materials through the Development of Interactive Computational Notebooks**  
+&nbsp; Chapter coauthored with Richard Marciano and other Advanced Information Collaboratory members for the _Archives and Primary Source Handbook_, forthcoming from [New Prairie Press](https://newprairiepress.org/).
 
 **A No-Nonsense Guide to Thinking About Interoperability**  
 &nbsp; Zine about the basics of interoperable metadata - read it [here](./interop-zine.pdf).
